@@ -1,5 +1,5 @@
 # Image-Processing
-Python-based image processing functions, leveraging OpenCV and NumPy for various transformations and effects.
+Full project write-up: https://github.com/rohanlad/Image-Processing/blob/main/Image%20Processing%20Report.pdf
 
 # PROBLEM 1: LIGHT LEAK AND RAINBOW LIGHT LEAK
 
