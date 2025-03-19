@@ -1,7 +1,7 @@
 # Image-Processing
 Python-based image processing functions, leveraging OpenCV and NumPy for various transformations and effects.
 
-PROBLEM 1: LIGHT LEAK AND RAINBOW LIGHT LEAK
+# PROBLEM 1: LIGHT LEAK AND RAINBOW LIGHT LEAK
 
     This function takes 4 arguments, and writes the output to output1.jpg in the current directory. As a 
     pre-requisite, you must have the masks simple_mask.jpg and rainbow_mask.jpg in the current directory:
@@ -22,7 +22,7 @@ PROBLEM 1: LIGHT LEAK AND RAINBOW LIGHT LEAK
         Rainbow Light Leak: python skww86.py problem1 face1.jpg 0.4 0.7 rainbow
     *******************************************************************
 
-PROBLEM 2: PENCIL / CHARCOAL EFFECT
+# PROBLEM 2: PENCIL / CHARCOAL EFFECT
 
     This function takes 3 arguments, and writes the output to output2.jpg in the current directory:
 
@@ -40,7 +40,7 @@ PROBLEM 2: PENCIL / CHARCOAL EFFECT
         Coloured Pencil: python skww86.py problem2 face1.jpg 0.7 coloured_pencil
     *******************************************************************
 
-PROBLEM 3: SMOOTHING & BEAUTIFYING FILTER
+# PROBLEM 3: SMOOTHING & BEAUTIFYING FILTER
 
     This function takes 3 arguments, and writes the output to output3.jpg in the current directory:
 
@@ -58,7 +58,7 @@ PROBLEM 3: SMOOTHING & BEAUTIFYING FILTER
         python skww86.py problem3 face2.jpg 5 1
     *******************************************************************
     
-PROBLEM 4: FACE SWIRL
+# PROBLEM 4: FACE SWIRL
 
     This function takes 4 arguments, and writes 4 outputs to output4a.jpg, output4b.jpg, output4c.jpg,
     and output4d.jpg respectively in the current directory, where 4a is the image with the basic swirl
